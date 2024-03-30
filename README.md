@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#I am Lubanjwa Francis
+
+<img alter ="my stats" align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=francislub&show_icons=true&theme=radical"/>
+
+<img alter ="top langs" align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=francislub&layout=compact"/>
+
+
 <!--
 **francislub/francislub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
