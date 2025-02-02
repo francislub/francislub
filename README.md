@@ -81,13 +81,6 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/francislub/francislub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%">
-</div>
-
-<div align="center">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20240125-WA0057.jpg-nttqtx7v2L5J3C4KHHDhGO16spshgb.jpeg" alt="Profile Photo" width="200" style="border-radius: 50%; margin: 20px; border: 3px solid #4c1d95" />
 </div>
 
@@ -126,13 +119,35 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francislub&show_icons=true&locale=en" alt="francislub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francislub&" alt="francislub" /></p>
-  
-  ```text
-  🌞 Morning    95 commits     ███████░░░   28.8%
-  🌆 Daytime    125 commits    ████████░░   37.9%
-  🌃 Evening    82 commits     ██████░░░░   24.8%
-  🌙 Night      28 commits     ████░░░░░░   8.5%
+<div align="center">
   
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francislub&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francislub&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 💻 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francislub&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 📈 Contribution Graph
+
+[![Francis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=francislub&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## ⏰ Weekly Development Breakdown
+
+```text
+🌞 Morning    95 commits     ███████░░░   28.8%
+🌆 Daytime    125 commits    ████████░░   37.9%
+🌃 Evening    82 commits     ██████░░░░   24.8%
+🌙 Night      28 commits     ████░░░░░░   8.5%
 
