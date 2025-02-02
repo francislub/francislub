@@ -79,4 +79,49 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/francislub/francislub/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+<div align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="MasterHead" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20240125-WA0057.jpg-nttqtx7v2L5J3C4KHHDhGO16spshgb.jpeg" alt="Profile Photo" width="200" style="border-radius: 50%; margin: 20px; border: 3px solid #4c1d95" />
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Engineer+Lubanjwa+Francis;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Data+Scientist;Machine+Learning+Engineer&center=true&size=30&color=4c1d95">
+</h1>
+
+<div align="center">
+  <a href="https://github.com/francislub">
+    <img src="https://img.shields.io/badge/Website-francislub.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:lubanjwafrancispro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/lubanjwafrancispro">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=francislub&label=Profile%20views&color=4c1d95&style=flat" alt="francislub" />
+  <img src="https://img.shields.io/github/followers/francislub?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/francislub?label=Stars&style=social" alt="GitHub stars" />
+</p>
+
+<div align="center">
+  <h2>🏆 Achievements & Metrics</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=francislub&theme=darkhub&no-frame=true&row=1&column=7" alt="trophies" />
+</div>
+
+<div align="center">
+  <h2>⚡ Current Status</h2>
+  
+  ```text
+  🌞 Morning    95 commits     ███████░░░   28.8%
+  🌆 Daytime    125 commits    ████████░░   37.9%
+  🌃 Evening    82 commits     ██████░░░░   24.8%
+  🌙 Night      28 commits     ████░░░░░░   8.5%
+  
+
 
